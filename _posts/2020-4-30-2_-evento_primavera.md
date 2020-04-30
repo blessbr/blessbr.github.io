@@ -3,7 +3,7 @@ layout: post
 title: Evento - COMEMORE A ATUALIZAÇÃO DE PRIMAVERA EM GRANDE ESTILO! - 30/05/2020
 ---
 <p align="center">
-    <img src="https://cdn-cms.bnea.io/sites/default/files/news/cover-small-desktop/198534441715625.jpg>
+    <img src="https://cdn-cms.bnea.io/sites/default/files/news/cover-small-desktop/198534441715625.jpg">
 </p>
 
 # COMEMORE A ATUALIZAÇÃO DE PRIMAVERA EM GRANDE ESTILO!
